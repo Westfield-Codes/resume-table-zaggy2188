@@ -1,0 +1,25 @@
+table, tr, th, td {
+  border: 0;
+}
+
+body {
+  width:90%;
+}
+
+th {
+  vertical-align:top;
+}
+
+td {
+  padding-bottom:20px;
+}
+
+
+th {
+  text-align:left;
+  padding-right:2em;
+}
+
+ul {
+	margin:0;
+}
